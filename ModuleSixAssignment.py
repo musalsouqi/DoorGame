@@ -1,4 +1,5 @@
-#Mustafa Alsouqi Intro to scripting. Module six game
+#Mustafa Alsouqi Intro to scripting. Module six Door Game
+
 
 #room dict
 rooms = {
