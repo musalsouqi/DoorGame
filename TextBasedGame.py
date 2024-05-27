@@ -22,12 +22,12 @@ current_room = "Water Treatment Plant"
 
 # Function to show instructions
 def show_instructions():
-    print("----------------------------------------------------")
+    print("---------------------------------------------------")
     print("Chicago Sewer Text Adventure Game")
     print("Collect 6 items before you face off with the Rat King, or be defeated by him.")
     print("Move commands: go South, go North, go East, go West")
     print("Add to Inventory: get 'item name'")
-    print("----------------------------------------------------")
+    print("---------------------------------------------------")
 
 
 def get_new_state(direction_to_go, player_room):
